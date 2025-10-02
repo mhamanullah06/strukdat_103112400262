@@ -1,14 +1,7 @@
-#include <iostream>
-using namespace std;
+## Repository Praktikum Struktur Data
 
-int main() {
-    int angka;
-
-    cout << "Halo, ini program C++ sederhana!\n";
-    cout << "Masukkan sebuah angka: ";
-    cin >> angka;
-
-    cout << "Angka yang kamu masukkan adalah: " << angka << endl;
-
-    return 0;
-}
+<pre>
+Nama : Muhammad Haidar Amanullah
+NIM : 103112400262
+Kelas : IF-12-05
+</pre>
