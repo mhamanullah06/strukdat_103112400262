@@ -8,15 +8,15 @@ Menurut saya, belajar struktur data itu semacam pondasi utama buat ngerti cara n
 
 <h1> 2. Dasar Teori </h1>
 
-<h2> Struktur data <h2>
+**Struktur data**
 
 Struktur data merupakan cara menyimpan dan mengatur data di komputer agar dapat digunakan secara efisien. Salah satu struktur data dinamis yang sering digunakan adalah linked list. Tidak seperti array yang menyimpan elemen secara berurutan di memori, linked list terdiri dari simpul (node) yang saling terhubung melalui pointer. Setiap node memiliki dua bagian utama: data dan pointer (next) yang menunjuk ke node berikutnya.
 
-<h2> Singly Linked List <h2>
+**Singly Linked List**
 
 Singly Linked List adalah bentuk dasar dari linked list di mana setiap node hanya memiliki satu pointer yang mengarah ke node selanjutnya. Struktur ini memudahkan penambahan dan penghapusan data secara dinamis, tetapi traversal hanya bisa dilakukan satu arah.
 
-<h2> Doubly Linked List <h2>
+**Doubly Linked List**
 
 Doubly Linked List merupakan pengembangan dari Singly Linked List. Setiap node memiliki dua pointer, yaitu next untuk node berikutnya dan prev untuk node sebelumnya. Hal ini memungkinkan traversal dilakukan dua arah (maju dan mundur), meskipun memerlukan memori lebih banyak.
 
@@ -627,4 +627,5 @@ Selain itu, implementasi fungsi lanjutan seperti insertBefore, printReverse, del
 
 2. https://www.w3schools.com/dsa/dsa_data_linkedlists_types.php?
    
+
 3. https://www.freecodecamp.org/news/how-linked-lists-work/?
