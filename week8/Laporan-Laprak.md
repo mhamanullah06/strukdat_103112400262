@@ -1,4 +1,4 @@
-<h1 align = center > <b>  LAPORAN PRATIKUM STUKTUR DATA PERTEMUAN 9 <br>
+<h1 align = center > <b>  LAPORAN PRATIKUM STUKTUR DATA PERTEMUAN 8 <br>
 </b></h1><p align = center><b>Nama : Muhammad Haidar Amanullah || NIM : 103112400262 || Kelas : IF-12-05</b></p>
 
 <h1> 1. Motivasi Belajar Struktur Data </h1>
@@ -409,4 +409,5 @@ Secara keseluruhan, praktikum ini memberikan pemahaman yang lebih mendalam menge
 
 2. https://www.geeksforgeeks.org/dsa/queue-data-structure/
    
+
 3. DSiregar, R. (2019). Struktur Data Menggunakan C++. Andi Publisher.
